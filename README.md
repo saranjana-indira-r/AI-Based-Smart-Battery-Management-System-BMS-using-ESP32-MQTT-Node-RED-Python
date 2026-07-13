@@ -140,40 +140,6 @@ bms/ai_prediction| AI Prediction
 
 ---
 
-Folder Structure
-
-AI-Based-Smart-Battery-Management-System
-│
-├── code/
-│   └── main.ino
-│
-├── python/
-│   ├── battery_data.csv
-│   ├── train_model.py
-│   ├── predict.py
-│   ├── mqtt_ai.py
-│   └── model.pkl
-│
-├── simulation/
-│   ├── diagram.json
-│   └── wokwi-project.json
-│
-├── node-red/
-│   └── flow
-│
-├── images/
-│   ├── circuit.png
-│   ├── oled_output.png
-│   ├── dashboard.png
-│   └── ai_prediction.png
-│
-├── docs/
-│   └── Project_Report.pdf
-│
-└── README.md
-
----
-
 Results
 
 - Successfully monitored battery voltage, current, temperature, and SoC.
